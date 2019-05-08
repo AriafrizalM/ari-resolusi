@@ -2,5 +2,5 @@ Ari Resolusi
 -Membuat project web
 -Mmebuat project Android
 -Membuat project ios
--Membuat projrct IOT
 -Membuat project smarthome
+-Membuat project smartparking
